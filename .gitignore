@@ -5,3 +5,5 @@ data
 *.svg
 *.csv
 *.npy
+*.pdf
+*.tar.gz
